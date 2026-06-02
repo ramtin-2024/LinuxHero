@@ -1,4 +1,3 @@
-
 # 🦊 Linux Hero: Virus Escape
 > **An Educational 2D Platformer for Cybersecurity Enthusiasts**
 
@@ -17,34 +16,36 @@
 
 <a name="english"></a>
 ## 🇬🇧 English
-**Linux Hero: Virus Escape** is an interactive 2D platformer built with Python and Pygame. Navigate through infected systems, dodge malware, and solve Linux terminal challenges to recover the digital world.
-- **Key Features:** OOP Architecture, Randomized Linux Quizzes, Physics-based movement.
-- **Goal:** Master commands like `ls`, `cd`, `chmod`, and `grep` while playing.
+**Linux Hero: Virus Escape** is an interactive 2D platformer. Navigate through infected systems, dodge malware, and solve Linux terminal challenges.
+- **Combat:** Stomp on viruses to eliminate them (Mario-style mechanics).
+- **Learning:** Master commands like `ls`, `cd`, `chmod`, and `grep`.
+- **Architecture:** Robust OOP design using Python and Pygame.
 
 <a name="persian"></a>
 ## 🇮🇷 فارسی
-**قهرمان لینوکس: فرار از ویروس** یک بازی پلتفرمر آموزشی است که با پایتون و کتابخانه Pygame توسعه یافته است. در دنیایی آلوده به بدافزارها حرکت کنید و با حل چالش‌های ترمینال لینوکس، سیستم‌ها را بازیابی کنید.
-- **ویژگی‌های کلیدی:** معماری شیءگرا (OOP)، کوییزهای تصادفی لینوکس، فیزیک حرکت حرفه‌ای.
-- **هدف:** یادگیری دستورات پایه لینوکس در حین بازی برای دانشجویان و علاقه‌مندان به امنیت.
+**قهرمان لینوکس: فرار از ویروس** یک بازی پلتفرمر آموزشی است. در دنیایی آلوده حرکت کنید و با حل چالش‌های لینوکس، سیستم‌ها را نجات دهید.
+- **سیستم مبارزه:** نابود کردن ویروس‌ها با پریدن روی سر آن‌ها (مشابه مکانیک قارچ‌خور).
+- **بخش آموزشی:** یادگیری دستورات `mkdir` ،`cd` ،`grep` و غیره در حین بازی.
+- **طراحی:** پیاده‌سازی کاملاً شیءگرا برای توسعه‌پذیری بالا.
 
 <a name="deutsch"></a>
 ## 🇩🇪 Deutsch
-**Linux Hero: Virus Escape** ist ein interaktives 2D-Platformer-Spiel. Navigieren Sie durch infizierte Systeme und lösen Sie Linux-Terminal-Herausforderungen, um die digitale Welt zu retten.
-- **Hauptmerkmale:** OOP-Architektur, Linux-Quiz-System, Physikbasierte Bewegung.
-- **Lernziel:** Beherrschen Sie Befehle wie `ls`, `pwd` und `chmod`.
+**Linux Hero: Virus Escape** ist ein Bildungs-Platformer. Besiegen Sie Viren, indem Sie auf sie springen, und lösen Sie Linux-Rätsel.
+- **Kampf:** Springen Sie auf Viren, um sie zu eliminieren.
+- **Lernziel:** Befehle wie `ls`, `pwd` und `chmod` spielerisch lernen.
 
 <a name="français"></a>
 ## 🇫🇷 Français
-**Linux Hero: Virus Escape** est un jeu de plateforme éducatif. Combattez les virus et résolvez des énigmes de terminal Linux pour progresser dans les niveaux.
-- **Caractéristiques:** Architecture POO, Quiz Linux aléatoires, Moteur physique.
-- **Objectif:** Apprendre les commandes `ls`, `mkdir` et `find` en s'amusant.
+**Linux Hero: Virus Escape** est un jeu de plateforme éducatif. Combattez les virus en sautant dessus et résolvez des défis Linux.
+- **Combat:** Écrasez les virus pour les éliminer.
+- **Objectif:** Maîtriser les commandes `ls`, `mkdir` et `find`.
 
 ---
 
-## 🛠 Quick Start
-1. **Clone the repo:** `git clone https://github.com/ramtin-2024/LinuxHero.git`
-2. **Install requirements:** `pip install -r requirements.txt`
-3. **Run the game:** `python main.py`
+## 🛠 Installation
+1. `git clone https://github.com/ramtin-2024/LinuxHero.git`
+2. `pip install -r requirements.txt`
+3. `python main.py`
 
 ---
 **Developed by Ramtin Golboun**
